@@ -40,8 +40,6 @@ El proyecto fue liderado, diseñado y desarrollado implementando una arquitectur
 * Seguridad y optimisacion: ProGuard, R8 para la limpieza de codigo no utilizado y la seguridad ofuscando el codigo.
 * Herramientas: Android Studio, Git, GitHub.
 
-## 🧠 Desafíos Técnicos y Soluciones
-
 
 ## 🗺️ Roadmap (Hoja de Ruta)
 
