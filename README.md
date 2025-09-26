@@ -47,13 +47,13 @@ El desarrollo del proyecto se plantea de manera evolutiva y estratégica.
 
 ### En Desarrollo (Corto Plazo) 
 
-[x] Refactorizacion de toda la app, donde se implemento la modularizacion siguiendo los lineamientos de Clean Architecture e interconectando los modulos a travez del uso de injeccion de dependencia para mejorar la escalabilidad de la app con todas las cosas nuevas que se vienen.
-[x] Implementación de herramientas de texto a voz.
-[x] Integracion con Room para el guardado de los mensajes escritos por el usuario.
-[ ] Afinamiento de utilidad de texto a voz.
-[ ] Implementación de herramientas de que ayuden a personas con discapacidad auditiva.
-[ ] Creacion de loggin.
-[ ] Seccion de ajustes para personalizacion y guardado de esta.
+[x] Refactorizacion de toda la app, donde se implemento la modularizacion siguiendo los lineamientos de Clean Architecture e interconectando los modulos a travez del uso de injeccion de dependencia para mejorar la escalabilidad de la app con todas las cosas nuevas que se vienen.  
+[x] Implementación de herramientas de texto a voz.  
+[x] Integracion con Room para el guardado de los mensajes escritos por el usuario.  
+[ ] Afinamiento de utilidad de texto a voz.  
+[ ] Implementación de herramientas de que ayuden a personas con discapacidad auditiva.  
+[ ] Creacion de loggin.  
+[ ] Seccion de ajustes para personalizacion y guardado de esta.  
 
 ### Visión Estratégica (Futuro)
 
