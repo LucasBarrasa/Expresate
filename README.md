@@ -3,7 +3,7 @@
 ### Cada voz cuenta.
 
 ## Imagenes
-[](https://raw.githubusercontent.com/LucasBarrasa/Expresate/874c34b8f541b5ef3dde6a40a34c941e6be93639/assets/Gift%20expresate.gif)
+![Demostración de la app Exprésate](https://raw.githubusercontent.com/LucasBarrasa/Expresate/874c34b8f541b5ef3dde6a40a34c941e6be93639/assets/Gift%20expresate.gif)
 
 ## 🎯 El Problema que Resuelve
 
