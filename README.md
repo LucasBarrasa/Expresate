@@ -57,9 +57,7 @@ El desarrollo del proyecto se plantea de manera evolutiva y estratégica.
 
 ### Visión Estratégica (Futuro)
 
-Plataforma Institucional (B2B): Desarrollo de un modelo de negocio brindar una potente plataforma de accesibilidad que permita a organizaciones mejorar sus responsabilidad social empresarial y ser mas inclusivas.  
-Funcionalidades Premium: Copia de seguridad en la nube , gestión de múltiples paneles para especialistas y ajustes de configuración de voz.  
-Innovación en Accesibilidad: Desarrollo de un módulo para el manejo de la app solo con la vista.  
+Sostenibilidad: Desarrollo de un modelo de negocio evolutivo y sostenible para un crecimiento de la plataforma y que les permita a organizaciones mejorar sus responsabilidad social empresarial y ser mas inclusivas.  
 Expansión: Análisis de viabilidad para la expansión a otras plataformas como iOS.  
 
 
