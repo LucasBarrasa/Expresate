@@ -8,6 +8,7 @@ Exprésate es una aplicación nativa de Android diseñada para resolver barreras
 A diferencia de proyectos teóricos, Exprésate está validado en entornos de producción críticos:
 
 * Implementación Institucional: Adoptado oficialmente por el área de Discapacidad del Municipio de Dolores (Buenos Aires).
+* Participacion en InnovELA: Se participo con la App en la primera edición de la exposición InnovELA, realizada por la fundación Esteban Bullrich.
 * Expansión B2B/B2G: Actualmente en fase de escalado para su integración en centros de salud municipales y áreas de atención al público general, facilitando la inclusión en comercios e instituciones.
 
 
